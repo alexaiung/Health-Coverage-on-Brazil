@@ -10,4 +10,5 @@ A análise foi realizada através do Tableau e está disponível em [Tableau](ht
 
 ## Conclusões
 Alguns fatores, conforme vistos na análise, chamam a atenção: há uma diferença entre a proporção de cobertura em relação à renda média de cada estado. Se isso pode revelar um bom uso das políticas públicas em favor daqueles que não possuem condições de acessar serviços privados de saúde, é interessante pensar se a população de um estado como o de São Paulo está fazendo bom uso da Atenção Primária, visto que a cobertura é inferior. Isto é especialmente importante porque a Atenção Primária não visa somente tratar doenças, mas preveni-las, e isso só é possível com uma cobertura eficiente. 
+
 Se é verdade que um estado com população como a de São Paulo exige logísticas mais complexas do que os estados do Nordeste, é interessante pensar como o segundo maior estado em população do Brasil, Minas Gerais, consegue obter uma cobertura mais eficiente. Análises como essa permitem pensar melhores formas de nortear as políticas públicas e também podem ser de interesse de empresas privadas que queiram aumentar sua competitividade em áreas de menor cobertura.
